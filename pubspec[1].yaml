@@ -1,0 +1,16 @@
+
+name: find_your_ride
+description: A new Flutter project for ride hailing
+publish_to: "none"
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.0.0
+  firebase_auth: ^4.2.0
+
+flutter:
+  uses-material-design: true
